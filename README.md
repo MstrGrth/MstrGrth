@@ -1,5 +1,6 @@
 ## Hi there 👋
-## 🔭 I’m currently working on getting good
+
+🔭 I’m currently working on a personal project.
 🌱 I’m currently learning through Boot.Dev
 
 <!--
